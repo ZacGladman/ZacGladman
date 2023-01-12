@@ -40,6 +40,7 @@ I have experience building full stack apps, both individually and by paired prog
     </tr>
 </table>
 <br/>
+        
 
 ## 🛠️ Languages and technologies I have used
 <hr>
@@ -55,6 +56,7 @@ I have experience building full stack apps, both individually and by paired prog
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 <br/>
+        
 
 ## 💻 GitHub Streak
 
@@ -62,7 +64,8 @@ I have experience building full stack apps, both individually and by paired prog
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ZacGladman&theme=midnight-purple)
 
-
+<br/>
+        
 ## ✉️ Contact Me
 <hr>
 
