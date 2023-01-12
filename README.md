@@ -60,12 +60,12 @@ I have experience building full stack apps, both individually and by paired prog
         
 
 ## 💻 GitHub Streak
-
 <hr>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ZacGladman&theme=midnight-purple)
 
 <br/>
+  
         
 ## ✉️ Contact Me
 <hr>
