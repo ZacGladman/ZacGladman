@@ -21,22 +21,11 @@ I have experience building full stack apps, both individually and by paired prog
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## 💻 GitHub Summary
-<hr>
-
-![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacGladman&count_private=true&show_icons=true&theme=midnight-purple&card_width=550)
-
-## 🔬 Streak stats
+## 💻 GitHub Streak
 
 <hr>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ZacGladman&theme=midnight-purple)
-
-## 👨🏾‍💻 What I've been coding with
-
-<hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZacGladman&layout=compact&theme=midnight-purple&card_width=500)
 
 ## ✉️ Contact Me
 <hr>
