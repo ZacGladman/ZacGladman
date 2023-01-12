@@ -24,7 +24,7 @@ I have experience building full stack apps, both individually and by paired prog
 ## 💻 GitHub Summary
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacGladman&count_private=true&show_icons=true&theme=midnight-purple&card_width=550)
+![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacGladman&count_private=true&show_icons=true&theme=midnight-purple&card_width=550)
 
 ## 🔬 Streak stats
 
