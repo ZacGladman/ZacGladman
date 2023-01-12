@@ -23,7 +23,7 @@ I have experience building full stack apps, both individually and by paired prog
   <tbody>
    <tbody align="center">
     <tr>
-      <td><a href="https://zacs-pastebin.netlify.app/" target="_blank"><b>Pastebin<b></a></td>
+      <td><a href="https://zacs-pastebin.netlify.app/" target="_blank" rel="noopener noreferrer"><b>Pastebin<b></a></td>
       <td><a href="https://github.com/ZacGladman/pastebin-frontend"><b>React, TypeScript</b></a></td>
       <td><a href="https://github.com/ZacGladman/pastebin-backend"><b>Express, PostgreSQL, Node.js</b></a></td>
       <td><b>both</b></td>
