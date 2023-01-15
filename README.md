@@ -23,6 +23,15 @@ I have experience building full stack apps, both individually and by paired prog
   <tbody>
    <tbody align="center">
     <tr>
+      <td><a href="https://chefbook-zg.netlify.app/" target="_blank"><b>Recipes App<b></a></td>
+      <td><a href="https://github.com/ZacGladman/recipes-app-frontend"><b>React + React Router, TypeScript, CSS</b></a></td>
+      <td><b>not yet implemented</b></a></td>
+      <td><b>solo</b></td>
+      <td><a href="" target="_blank"><b>n/a<b></a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
       <td><a href="https://zacs-pastebin.netlify.app/"><b>Pastebin<b></a></td>
       <td><a href="https://github.com/ZacGladman/pastebin-frontend"><b>React, TypeScript</b></a></td>
       <td><a href="https://github.com/ZacGladman/pastebin-backend"><b>Express, PostgreSQL, Node.js</b></a></td>
@@ -36,13 +45,6 @@ I have experience building full stack apps, both individually and by paired prog
       <td><a href=https://github.com/jodadoj/dog-voting-frontend><b>React + React Router, TypeScript</b></a></td>
       <td><a href="https://github.com/ZacGladman/dog-voting-app-backend"><b>Express, PostgreSQL, Node.js</b></a></td>
       <td><b>paired</b></td>
-      <td><a href="" target="_blank"><b>n/a<b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://chefbook-zg.netlify.app/" target="_blank"><b>Recipes App<b></a></td>
-      <td><a href="https://github.com/ZacGladman/recipes-app-frontend"><b>React + React Router, TypeScript, CSS</b></a></td>
-      <td><b>not yet implemented</b></a></td>
-      <td><b>solo</b></td>
       <td><a href="" target="_blank"><b>n/a<b></a></td>
     </tr>
 </table>
