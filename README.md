@@ -16,7 +16,6 @@ I have experience building full stack apps, both individually and by paired prog
       <td><b>Frontend</b></td>
       <td><b>Backend</b></td>
       <td><b>Paired or Solo?</b></td>
-      <td><b>Video Walkthrough</b></td>
       <!--<td><b>Documentation</b></td>-->
     </tr>
   </thead>
@@ -26,21 +25,18 @@ I have experience building full stack apps, both individually and by paired prog
       <td><a href="https://github.com/ZacGladman/recipes-app-frontend"><b>React + React Router, TypeScript, CSS</b></a></td>
       <td><b>not yet implemented</b></a></td>
       <td><b>solo</b></td>
-      <td><a href="" target="_blank"><b>n/a<b></a></td>
     </tr>
     <tr>
       <td><a href="https://zacs-pastebin.netlify.app/"><b>Pastebin<b></a></td>
       <td><a href="https://github.com/ZacGladman/pastebin-frontend"><b>React, TypeScript</b></a></td>
       <td><a href="https://github.com/ZacGladman/pastebin-backend"><b>Express, PostgreSQL, Node.js</b></a></td>
       <td><b>both</b></td>
-      <td><a href="" target="_blank"><b>n/a<b></a></td>
     </tr>
     <tr>
       <td><a href="https://djz-dog-voting.netlify.app/" target="_blank"><b>Dog Voter<b></a></td>
       <td><a href=https://github.com/jodadoj/dog-voting-frontend><b>React + React Router, TypeScript</b></a></td>
       <td><a href="https://github.com/ZacGladman/dog-voting-app-backend"><b>Express, PostgreSQL, Node.js</b></a></td>
       <td><b>paired</b></td>
-      <td><a href="" target="_blank"><b>n/a<b></a></td>
     </tr>
 </table>
 <br/>
