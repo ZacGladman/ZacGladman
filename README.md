@@ -23,7 +23,7 @@ I have experience building full stack apps, both individually and by paired prog
     <tr>
       <td><a href="https://chefbook-zg.netlify.app/" target="_blank"><b>Recipes App<b></a></td>
       <td><a href="https://github.com/ZacGladman/recipes-app-frontend"><b>React + React Router, TypeScript, CSS</b></a></td>
-      <td><b>not yet implemented</b></a></td>
+      <td><a href="https://github.com/ZacGladman/recipes-backend"><b>Express, PostgreSQL, Node.js</b></a></td>
       <td><b>solo</b></td>
     </tr>
     <tr>
