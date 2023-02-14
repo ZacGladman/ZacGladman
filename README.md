@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, I'm Zac, and for the past ~four months, I have been intensively studying software engineering.
+Hi, I'm Zac, and for the past six months, I have been intensively studying software engineering.
 
 I have experience building full stack apps, both individually and by paired programming. Some examples of my work are the following:
 
