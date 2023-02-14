@@ -27,16 +27,22 @@ I have experience building full stack apps, both individually and by paired prog
       <td><b>solo</b></td>
     </tr>
     <tr>
+      <td><a href="https://share-resources.netlify.app/" target="_blank"><b>Coding Resource Sharer<b></a></td>
+      <td><a href="https://github.com/katrinalea/share-resources"><b>React + React Router, TypeScript, Cypress</b></a></td>
+      <td><a href="https://github.com/katrinalea/share-resources-backend"><b>Express, PostgreSQL, Node.js</b></a></td>
+      <td><b>paired</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://djz-dog-voting.netlify.app/" target="_blank"><b>Dog Voter<b></a></td>
+      <td><a href="https://github.com/jodadoj/dog-voting-frontend"><b>React + React Router, TypeScript</b></a></td>
+      <td><a href="https://github.com/ZacGladman/dog-voting-app-backend"><b>Express, PostgreSQL, Node.js</b></a></td>
+      <td><b>paired</b></td>
+    </tr>
+    <tr>
       <td><a href="https://zacs-pastebin.netlify.app/"><b>Pastebin<b></a></td>
       <td><a href="https://github.com/ZacGladman/pastebin-frontend"><b>React, TypeScript</b></a></td>
       <td><a href="https://github.com/ZacGladman/pastebin-backend"><b>Express, PostgreSQL, Node.js</b></a></td>
       <td><b>both</b></td>
-    </tr>
-    <tr>
-      <td><a href="https://djz-dog-voting.netlify.app/" target="_blank"><b>Dog Voter<b></a></td>
-      <td><a href=https://github.com/jodadoj/dog-voting-frontend><b>React + React Router, TypeScript</b></a></td>
-      <td><a href="https://github.com/ZacGladman/dog-voting-app-backend"><b>Express, PostgreSQL, Node.js</b></a></td>
-      <td><b>paired</b></td>
     </tr>
 </table>
 <br/>
